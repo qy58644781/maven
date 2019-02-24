@@ -1,4 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sun Feb 24 14:52:47 CST 2019
-@default-haoch-maven-snapshot-repository-https\://raw.github.com/qy58644781/maven/snapshot/.lastUpdated=1550991167692
-https\://raw.github.com/qy58644781/maven/snapshot/.error=Could not transfer artifact com.yadan\:payment\:jar\:1.0-SNAPSHOT from/to haoch-maven-snapshot-repository (https\://raw.github.com/qy58644781/maven/snapshot/)\: GET request of\: com/yadan/payment/1.0-SNAPSHOT/payment-1.0-SNAPSHOT.jar from haoch-maven-snapshot-repository failed
