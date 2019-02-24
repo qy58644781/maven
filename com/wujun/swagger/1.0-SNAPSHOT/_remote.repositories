@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Feb 24 20:06:30 CST 2019
+swagger-1.0-SNAPSHOT.pom>=
+swagger-1.0-SNAPSHOT.war>=
